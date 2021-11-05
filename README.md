@@ -3,7 +3,7 @@
 <p>Um simples sistema web de controle de finanças para treinar minhas habilidades com Front-end.</p>
 <ol>
   <li>Persistência de dados em localStorage.</li>
-  <li>>Responsividade.</li>
+  <li>Responsividade.</li>
 </ol>
 
 <h2>Tecnologias usadas:</h2>
